@@ -1,0 +1,66 @@
+<html>
+
+<head>
+	<link rel="stylesheet" href="/index.css">
+</head>
+
+<body>
+	<div id="main">
+		<div id="container">
+			<div id="cal_head">
+				<div id="cal_h">
+					<h3 id="header1">calc</h3>
+				</div>
+				<div id="theme_selector">
+					<p id="header2">THEME</p>
+					<div style="padding: 7px;">
+						<div class="tri-state-toggle">
+							<input class="button" type="radio" name="toggle" id="one" />
+							<input class="button" type="radio" name="toggle" id="two" />
+							<input class="button" type="radio" name="toggle" id="three" />
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div id="main_display">
+				<div id="small_display">
+					<input type="text" id="sd" disabled>
+				</div>
+				<div id="big_dispaly">
+					<input type="text" id="bd" placeholder="0" disabled>
+				</div>
+
+			</div>
+			<div id="inputs">
+				<button type="button" onclick="addvalue('7')">7</button>
+				<button type="button" onclick="addvalue('8')">8</button>
+				<button type="button" onclick="addvalue('9')">9</button>
+				<button type="button" id="del" onclick="del()">DEL</button>
+				<button type="button" onclick="addvalue('4')">4</button>
+				<button type="button" onclick="addvalue('5')">5</button>
+				<button type="button" onclick="addvalue('6')">6</button>
+				<button type="button" onclick="addop('+')">+</button>
+				<button type="button" onclick="addvalue('1')">1</button>
+				<button type="button" onclick="addvalue('2')">2</button>
+				<button type="button" onclick="addvalue('3')">3</button>
+				<button type="button" onclick="addop('-')">-</button>
+				<button type="button" onclick="addvalue('.')">.</button>
+				<button type="button" onclick="addvalue('0')">0</button>
+				<button type="button" onclick="addop('/')">/</button>
+				<button type="button" onclick="addop('*')">x</button>
+				<button type="button" id="reset" onclick="reset()">RESET</button>
+				<button type="button" id="equals" onclick="final()">=</button>
+
+			</div>
+
+		</div>
+	</div>
+
+	</div>
+	<footer>By BENAKA HEBBAR</footer>
+	<script src="/script.js"></script>
+
+</body>
+
+</html>
