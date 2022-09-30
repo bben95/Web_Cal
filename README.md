@@ -10,15 +10,17 @@
 
 ----
 ### Preview:
-![ScreenShot](/javass.png)
+![ScreenShot](/wcsc1.png)
+![ScreenShot](/wcsc2.png)
+![ScreenShot](/wcsc3.png)
 
 ----
 ### Project Url:
-https://effulgent-mandazi-cffc63.netlify.app/
+[https://effulgent-mandazi-cffc63.netlify.app/](https://merry-rabanadas-e22990.netlify.app/)
 
 ---
 ### Use:
-Site contains simple UI go to the webpage using above Url and Navigate through the content using navigation given on the left of the page.
+Site can Calculate basic functions such as addition, subtraction, multiplication, and division
 
 ---
 ### Languages and tools:
@@ -26,12 +28,13 @@ Site contains simple UI go to the webpage using above Url and Navigate through t
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
 ### Credits:
-*W3Schools* ,
+*Frontend Mentor* ,
 *VScode*
 
 -----------------------------------
